@@ -16,7 +16,7 @@
 - Google Analytics tracking
 
 ## Usage
-1. Fork the repo.
+1. Fork <a href="https://github.com/ozgrozer/dasper">this</a> repo.
 2. Change repo name from "dasper" to "username.github.io".
 3. Update your informations in the `_config.yml` file.
 4. You're ready to go on https://username.github.io/.
