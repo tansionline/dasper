@@ -1,6 +1,6 @@
 # Website details
 name: Tansi Blog
-description: Description
+description: I am Learning...
 email: tatarselcuk27@gmail.com
 author: selcuk
 lang: en
@@ -18,13 +18,13 @@ permalink: /:categories/:year/:month/:day/:title
 baseurl: https://tansionline.github.io
 
 # Includes
-addthisId: ""
-disqusUsername: ""
-googleAnalyticsId: ""
+addthisId: "UA-176062534-1"
+disqusUsername: "tansionline"
+googleAnalyticsId: "UA-176062534-1"
 
 # Search engine verifications
-bing: ""
-yandex: ""
+bing: "Tansi Blog - Selck Tatar"
+yandex: "Tansi Blog - Selcuk Tatar"
 google: "Tansi Blog - Selcuk Tatar"
 
 # Sitemap
