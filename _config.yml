@@ -1,8 +1,8 @@
 # Website details
-name: Name
+name: Tansi Blog
 description: Description
-email: email@site.com
-author: author
+email: tatarselcuk27@gmail.com
+author: selcuk
 lang: en
 locale: en_US
 
@@ -11,11 +11,11 @@ paginate: 10
 highlighter: rouge
 markdown: kramdown
 plugins: [jekyll-paginate]
-timezone: America/New_York
+timezone: Antalya/Turkey
 paginateLabel: page
 paginate_path: "page/:num"
 permalink: /:categories/:year/:month/:day/:title
-baseurl: https://ozgrozer.github.io/dasper
+baseurl: https://tansionline.github.io
 
 # Includes
 addthisId: ""
@@ -25,7 +25,7 @@ googleAnalyticsId: ""
 # Search engine verifications
 bing: ""
 yandex: ""
-google: ""
+google: "Tansi Blog - Selcuk Tatar"
 
 # Sitemap
 sitemap:
