@@ -5,7 +5,7 @@ coverPhoto: https://tansionline.github.io/img/2.png
 ---
 
 # Üniversiteye Gidiyorum ve Updates
-<hr><br>
+<br><br>
 <br><br>
 ![sonuç](https://tansionline.github.io/img/1.png)
 <br><br>
@@ -16,7 +16,7 @@ Uzun bir süreden sonra üniversiteye gidiyorum. Bölümüm **bilişim güvenli�
 <br><br>
 <br><br>
 Diğer taraftan **tryhackme** üzerinden kendimi geliştirmeye devam ediyorum.
-<br><br><br
+<br><br><br>
 
 ![tryhackme](https://tansionline.github.io/img/4.png)
 
