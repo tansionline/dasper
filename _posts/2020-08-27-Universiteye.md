@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Üniversiteye Gidiyorum ve Updates"
+coverPhoto: https://tansionline.github.io/img/1.png
 ---
 
 # Üniversiteye Gidiyorum ve Updates
