@@ -5,7 +5,6 @@ date: 2020-08-27 02:35:00+0200
 coverPhoto: https://tansionline.github.io/img/2.png
 ---
 
-# Üniversiteye Gidiyorum ve Updates
 <br><br>
 <br><br>
 ![sonuç](https://tansionline.github.io/img/1.png)
