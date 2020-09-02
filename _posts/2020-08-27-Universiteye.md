@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: article
 title:  "Üniversiteye Gidiyorum ve Updates"
 date: 2020-08-27 02:35:00+0200
 coverPhoto: https://tansionline.github.io/img/2.png
