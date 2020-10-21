@@ -82,8 +82,13 @@ Selamlar. Ben Selçuk Tatar. Şuan Bilişim Güvenliği bölümü, ilk sınıf �
 
 
    [WEB HACKING RESOURCE KIT](https://view.highspot.com/viewer/5f3aba1ba4dfa0019a6b49c2)
+
    [BEGINNING RESOURCE KIT](https://view.highspot.com/viewer/5f3ab6e7f7794d5f24a9dd05)
+   
    [Resources for Beginner Bug Bounty Hunters](https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters/blob/master/assets/basics.md)
+   
    [LiveOverflow'un YouTube Kanalı](https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w)
+   
    [Stök'ün YouTube Kanalı](https://www.youtube.com/channel/UCQN2DsjnYH60SFBIA6IkNwg)
+   
    [Hackeone Hacktivitys](https://hackerone.com/hacktivity)
