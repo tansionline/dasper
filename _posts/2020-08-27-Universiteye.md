@@ -39,4 +39,4 @@ Diğer taraftan **tryhackme** üzerinden kendimi geliştirmeye devam ediyorum.
 <a href="https://www.khanacademy.org/computing/computer-programming/sql/sql-basics/v/welcome-to-sql
 ">SQL Kursu</a>
 
-<a href="https://tryhackme.com/">TryHackMe</a>
+[Tryhackme](https://tryhackme.com)
