@@ -28,26 +28,30 @@ Selamlar. Ben Selçuk Tatar. Şuan Bilişim Güvenliği bölümü, ilk sınıf �
  <br><br>
  Web Güvenliğini anlamak için ilk başta nasıl kodlandığı ve nasıl çalıştığını anlamak gerekir. Bunun içinse ilk başta  HTML biçimlendirme dilini bilmek gerekir. 
  HTML dilini öğrenmenin en kolay yollarından biride 
- [W3School](https://www.w3schools.com/html/) sitesidir.
+ [W3Schools](https://www.w3schools.com/html/) sitesidir.
  Buradaki konu akışını anladıktan sonra sizlere verilen etkinlikleri tamamlayabilirsiniz.
  <br><br>
- Ama HTML ile yapabilecekleriniz sınırlıdır. Ama Javascript ile yaptığınız web sayfalarına resmen can verirsiniz. Javascript öğrenmek içinse sizlere iki kaynak vereceğim.
+ Ama HTML ile yapabilecekleriniz sınırlıdır. Javascript ile web sayfalarına resmen can verirsiniz. Javascript öğrenmek içinse sizlere iki kaynak vereceğim.
  [Learn X in Y minutes](https://learnxinyminutes.com/docs/javascript/)
- ile Javascript dilinin işlevlerini öğrenebilirsiniz. İkinci önereceğim site ise [Freecodecamp].(https://www.freecodecamp.org/learn javascript-algorithms-and-data-structures/basic-javascript/)
+ ile Javascript dilinin işlevlerini öğrenebilirsiniz. İkinci önereceğim site ise [Freecodecamp](https://www.freecodecamp.org/learn javascript-algorithms-and-data-structures/basic-javascript/)
  Bu site sizlere yapmanız gerekenleri veriyor ve sizlerde online olarak kodları yazıyorsunuz. 
  <br><br>
  <h2>Level 2: Sanal Makinelerle Antremanlar</h2>
  <br><br>
   ![](https://tansionline.github.io/img/memes2.png)
  <br><br>
- Programlama ve basit kavramları öğrendiğimize göre artık yavaş yavaş ***Legal*** olarak nereleri hackleyebiliriz. Kolaydan zora doğru gidegiz.
- Not: Sanal makinelere saldırmak için başlangıç seviyesi Linux bilginiz olmalıdır. 
- <br><br>
+ Programlama ve basit kavramları öğrendiğimize göre artık yavaş yavaş ***Legal*** olarak nereleri hackleyebiliriz. Kolaydan zora doğru gidecegiz.
+ 
+ **Not: Sanal makinelere saldırmak için başlangıç seviyesi Linux bilginiz olmalıdır.** 
+
+  <br><br>
   <h2>Tryhackme</h2>
   <br><br>
   ![](https://tansionline.github.io/img/tryhackme2.png)
   <br><br>
-  Tryhackme, başlangıç için ideal bir site. Buradaki kolay odalardan başlayarak yetenek setlerinizi geliştirebilirsiniz. Ayrıca buradaki bazı Tools(araçlar) odalarından o toolun nasıl çalıştığını öğrenebilirsiniz. ***Bu toollar arasında Burp Suite kesinlikle olmalıdır***. Çünkü bir sonraki site sırf bu tool üzerinedir.
+  Tryhackme, başlangıç için ideal bir site. Buradaki kolay odalardan başlayarak yetenek setlerinizi geliştirebilirsiniz. Ayrıca buradaki bazı Toolları(araç) odalardan  nasıl çalıştığını öğrenebilirsiniz.
+
+  **Bu toollar arasında Burp Suite kesinlikle olmalıdır. Çünkü bir sonraki site sırf bu tool üzerinedir.**
   <br><br>
   <h2>Port Swigger-Web Security</h2>
   <br><br>
