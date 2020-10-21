@@ -71,6 +71,9 @@ Selamlar. Ben Selçuk Tatar. Şuan Bilişim Güvenliği bölümü, ilk sınıf �
   <h2>Level 3: Son olarak Tavsiyelerim </h2>
   <br>
   <br>
+   ![](https://tansionline.github.io/img/cat.gif)
+  <br>
+  <br>
    Sonraki adım olarak bol bol raporlar okumak veya blog yazıları okuyup yazabilirsiniz. Peki blog yazıları veya raporları okumak için nereleri ziyaret etmeliyiz?
 
   Twitter ve Medium bunun için en güzel yerler. Twitterda güvenlik araştırıcılarını veya bazı blog sayfalarını takip edebilirsiniz.
