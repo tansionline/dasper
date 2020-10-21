@@ -2,7 +2,7 @@
 [Dasper](https://github.com/ozgrozer/dasper) is a [Jekyll](https://jekyllrb.com/) theme inspired by [Ghost](https://ghost.org/)'s default theme [Casper](https://demo.ghost.io/) and also [Jasper](https://biomadeira.github.io/jasper/) & [Kasper](http://rosario.io/).
 
 ## Live Demo
-- [tansionline.github.io/dasper](https://tansionline.github.io)
+- [tansionline.github.io](https://tansionline.github.io)
 
 ## Includes
 - Pagination
