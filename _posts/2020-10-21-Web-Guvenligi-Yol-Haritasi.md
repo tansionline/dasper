@@ -26,7 +26,7 @@ Selamlar. Ben Selçuk Tatar. Şuan Bilişim Güvenliği bölümü, ilk sınıf �
  <br><br>
  ![](https://tansionline.github.io/img/memes1.png)
  <br><br>
- Web Güvenliğini anlamak için ilk başta nasıl kodlandığı ve nasıl çalıştığını anlamak gerekir. Bunun içinse ilk başta ilk başta HTML biçimlendirme dilini bilmek gerekir. 
+ Web Güvenliğini anlamak için ilk başta nasıl kodlandığı ve nasıl çalıştığını anlamak gerekir. Bunun içinse ilk başta  HTML biçimlendirme dilini bilmek gerekir. 
  HTML dilini öğrenmenin en kolay yollarından biride 
  [W3School](https://www.w3schools.com/html/) sitesidir.
  Buradaki konu akışını anladıktan sonra sizlere verilen etkinlikleri tamamlayabilirsiniz.
