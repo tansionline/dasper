@@ -68,16 +68,16 @@ Selamlar. Ben Selçuk Tatar. Şuan Bilişim Güvenliği bölümü, ilk sınıf �
   [CTF 101](https://ctf.hacker101.com/) Hackerone destekli olduğu için avantaj olarak bir süre sonra Hackerone üzerinden sizlere private bounty programları getirebilir. 
   <br>
   <br>
-  <h2>Level 3: Tavsiyelerim </h2>
+  <h2>Level 3: Son olarak Tavsiyelerim </h2>
   <br>
   <br>
-   Sonraki adım olarak bol bol raporlar okumak veya blog yazıları okuyup yazabilirsiniz. Peki blog yazıları veya rapor okumak için nereleri ziyaret etmeliyiz?
+   Sonraki adım olarak bol bol raporlar okumak veya blog yazıları okuyup yazabilirsiniz. Peki blog yazıları veya raporları okumak için nereleri ziyaret etmeliyiz?
 
   Twitter ve Medium bunun için en güzel yerler. Twitterda güvenlik araştırıcılarını veya bazı blog sayfalarını takip edebilirsiniz.
   Bu konuda [TR Bug Hunterı](https://twitter.com/trbughunters) takip edebilirsiniz.
   Medium içinse [Bug Bounty WriteUp](https://medium.com/bugbountywriteup) üzerinden çok güzel yazılar yayınlanıyor.
-  Veya Hackerone'da Güvenlik Araştırmacısı olan Utku Şenin [blogunu](https://utkusen.com/blog/) takip edebilirsiniz.
-   Bu yazılık bu kadar.
+  Rapor okumak içinse [Hackeronedaki](https://hackerone.com/hacktivity) bölümüne bakabilirsiniz.
+  Bu yazılık bu kadar.
    
    Stay Safe.
 
@@ -96,3 +96,6 @@ Selamlar. Ben Selçuk Tatar. Şuan Bilişim Güvenliği bölümü, ilk sınıf �
    [Stök'ün YouTube Kanalı](https://www.youtube.com/channel/UCQN2DsjnYH60SFBIA6IkNwg)
    
    [Hackeone Hacktivitys](https://hackerone.com/hacktivity)
+
+   [Utku Şenin Blogu](https://utkusen.com/blog/) 
+  
