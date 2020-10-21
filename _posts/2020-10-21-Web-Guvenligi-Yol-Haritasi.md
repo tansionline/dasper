@@ -65,7 +65,7 @@ Selamlar. Ben Selçuk Tatar. Şuan Bilişim Güvenliği bölümü, ilk sınıf �
   <h2>Hacker 101-CTF</h2>
   <br>
   Hackerone adlı Güvenlik Şirketinin hazırladığı bu site sizleri diğer odalara göre biraz daha zorluyacak.  
-  [CTF 101](https://ctf.hacker101.com/) Hackerone destekli olduğu için bir süre sonra Hackerone üzerinden sizlere private bounty programları gelebilir. 
+  [CTF 101](https://ctf.hacker101.com/) Hackerone destekli olduğu için avantaj olarak bir süre sonra Hackerone üzerinden sizlere private bounty programları getirebilir. 
   <br>
   <br>
   <h2>Level 3: Tavsiyelerim </h2>
