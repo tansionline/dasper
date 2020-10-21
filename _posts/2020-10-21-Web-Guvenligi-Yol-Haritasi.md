@@ -77,7 +77,10 @@ Selamlar. Ben Selçuk Tatar. Şuan Bilişim Güvenliği bölümü, ilk sınıf �
    
    Stay Safe.
 
+
    ***KAYNAKLAR VE EKSTRA YAZILAR***
+
+
    [WEB HACKING RESOURCE KIT](https://view.highspot.com/viewer/5f3aba1ba4dfa0019a6b49c2)
    [BEGINNING RESOURCE KIT](https://view.highspot.com/viewer/5f3ab6e7f7794d5f24a9dd05)
    [Resources for Beginner Bug Bounty Hunters](https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters/blob/master/assets/basics.md)
