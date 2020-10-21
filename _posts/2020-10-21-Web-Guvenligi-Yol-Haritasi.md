@@ -4,18 +4,21 @@ title:  "Web Güvenliği Yol Haritası"
 date: 2020-10-21 02:35:00+0200
 coverPhoto: https://tansionline.github.io/img/websecurity.png
 ---
-
+<br>
 <br>
 ![](https://tansionline.github.io/img/websecurity.png)
 <br>
+<br>
 
-Selamlar. Ben Selçuk TATAR. Şuan Bilişim Güvenliği bölümü, ilk sınıf öğrencisiyim. Bundan 4 ay önce Web Güvenliğine ilgi duymaya başladım. Şuan bir amatör olarak size neler öğrendiğimi ve nereden başlayıp şuan nereye doğru ilerlediğimi anlatıyor olucağım. Düzeltmemi istediğiniz birşey olursa [Twitterdan](https://twitter.com/tansionline) bana ulaşabilirsiniz. Not: İngilizce kaynaklar içerir.
+Selamlar. Ben Selçuk Tatar. Şuan Bilişim Güvenliği bölümü, ilk sınıf öğrencisiyim. Bundan 4 ay önce Web Güvenliğine ilgi duymaya başladım. Şuan bir amatör olarak size neler öğrendiğimi ve nereden başlayıp şuan nereye doğru ilerlediğimi anlatıyor olucağım. Düzeltmemi istediğiniz birşey olursa [Twitterdan](https://twitter.com/tansionline) bana ulaşabilirsiniz. 
+**Not: İngilizce kaynaklar içerir.**
 
-##Level 0: Hazırlık
-[]()
+<h2>Level 0: Hazırlık</h2>
 <br><br>
  İlk önce eyleme geçmeden bazı kavramları bilmeliyiz. Bunun için 
- [Stanfordun](https://web.stanford.edu/class/cs253/) Computer Science 253 Ders kaynağını önerebilirim.
+ Zafiyet Araştırmacısı olan Mehmet İncenin [Web Securiy 101](https://www.youtube.com/watch?v=WtHnT73NaaQ&list=PLwP4ObPL5GY940XhCtAykxLxLEOKCu0nT) serisini şiddetle tavsiye ediyorum.
+<br><br>
+ Devam niteliğinde olan [Stanford'un](https://web.stanford.edu/class/cs253/) Computer Science 253 Ders kaynağını önerebilirim.
  <br><br>
  HTTP anlamak içinse Hacker101'in 
  [Web In Depth](https://www.hacker101.com/sessions/web_in_depth) adlı eğitimini izleyebilirsiniz.
@@ -54,7 +57,30 @@ Selamlar. Ben Selçuk TATAR. Şuan Bilişim Güvenliği bölümü, ilk sınıf �
   Burp Suite, Port Swigger adlı şirketin bir ürünüdür. Bu ürünün ücretli olan Professional ve ücretsiz olan Community versiyonları vardır. Dilediğinizi bilgisayarınıza kurabilirsiniz. Port Swigger, hem kendinizi geliştirmek hemde Burp Suite toolunu daha iyi kullanmanız için [Web Security](https://portswigger.net/web-security)
   adlı portalını kurdu. Burayı dileğiniz kadar kullanabilirsiniz.
   <br>
-  
+  <br>
+  <h2>Hacker 101-CTF</h2>
+  <br>
+  Hackerone adlı Güvenlik Şirketinin hazırladığı bu site sizleri diğer odalara göre biraz daha zorluyacak.  
+  [CTF 101](https://ctf.hacker101.com/) Hackerone destekli olduğu için bir süre sonra Hackerone üzerinden sizlere private bounty programları gelebilir. 
+  <br>
+  <br>
+  <h2>Level 3: Tavsiyelerim </h2>
+  <br>
+  <br>
+   Sonraki adım olarak bol bol raporlar okumak veya blog yazıları okuyup yazabilirsiniz. Peki blog yazıları veya rapor okumak için nereleri ziyaret etmeliyiz?
 
+  Twitter ve Medium bunun için en güzel yerler. Twitterda güvenlik araştırıcılarını veya bazı blog sayfalarını takip edebilirsiniz.
+  Bu konuda [TR Bug Hunterı](https://twitter.com/trbughunters) takip edebilirsiniz.
+  Medium içinse [Bug Bounty WriteUp](https://medium.com/bugbountywriteup) üzerinden çok güzel yazılar yayınlanıyor.
+  Veya Hackerone'da Güvenlik Araştırmacısı olan Utku Şenin [blogunu](https://utkusen.com/blog/) takip edebilirsiniz.
+   Bu yazılık bu kadar.
+   
+   Stay Safe.
 
-  
+   ***KAYNAKLAR VE EKSTRA YAZILAR***
+   [WEB HACKING RESOURCE KIT](https://view.highspot.com/viewer/5f3aba1ba4dfa0019a6b49c2)
+   [BEGINNING RESOURCE KIT](https://view.highspot.com/viewer/5f3ab6e7f7794d5f24a9dd05)
+   [Resources for Beginner Bug Bounty Hunters](https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters/blob/master/assets/basics.md)
+   [LiveOverflow'un YouTube Kanalı](https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w)
+   [Stök'ün YouTube Kanalı](https://www.youtube.com/channel/UCQN2DsjnYH60SFBIA6IkNwg)
+   [Hackeone Hacktivitys](https://hackerone.com/hacktivity)
