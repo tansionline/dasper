@@ -33,9 +33,13 @@ Selamlar. Ben Selçuk TATAR. Şuan Bilişim Güvenliği bölümü, ilk sınıf �
  ile Javascript dilinin işlevlerini öğrenebilirsiniz. İkinci önereceğim site ise [Freecodecamp].(https://www.freecodecamp.org/learn javascript-algorithms-and-data-structures/basic-javascript/)
  Bu site sizlere yapmanız gerekenleri veriyor ve sizlerde online olarak kodları yazıyorsunuz. 
  ##Level 2: Sanal Makinelerle Antremanlar
+ 
+ 
  <br>
   ![](https://tansionline.github.io/img/memes2.png)
  <br>
+
+
  Programlama ve basit kavramları öğrendiğimize göre artık yavaş yavaş ***Legal*** olarak nereleri hackleyebiliriz. Kolaydan zora doğru gidegiz.
  Not: Sanal makinelere saldırmak için başlangıç seviyesi Linux bilginiz olmalıdır. 
  <br>
@@ -45,13 +49,16 @@ Selamlar. Ben Selçuk TATAR. Şuan Bilişim Güvenliği bölümü, ilk sınıf �
   <br>
   Tryhackme, başlangıç için ideal bir site. Buradaki kolay odalardan başlayarak yetenek setlerinizi geliştirebilirsiniz. Ayrıca buradaki bazı Tools(araçlar) odalarından o toolun nasıl çalıştığını öğrenebilirsiniz. ***Bu toollar arasında Burp Suite kesinlikle olmalıdır***. Çünkü bir sonraki site sırf bu tool üzerinedir.
   <br>
- ### Port Swigger-Web Security
+  Port Swigger-Web Security
+  ===============
   <br>
  ![](https://tansionline.github.io/img/burp.png)
-  <br>
+  <br><br>
+  <br><br>
   Burp Suite, Port Swigger adlı şirketin bir ürünüdür. Bu ürünün ücretli olan Professional ve ücretsiz olan Community versiyonları vardır. Dilediğinizi bilgisayarınıza kurabilirsiniz. Port Swigger, hem kendinizi geliştirmek hemde Burp Suite toolunu daha iyi kullanmanız için [Web Security](https://portswigger.net/web-security)
   adlı portalını kurdu. Burayı dileğiniz kadar kullanabilirsiniz.
   <br>
   
+
 
   
