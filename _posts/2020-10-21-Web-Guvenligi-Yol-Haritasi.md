@@ -10,7 +10,7 @@ coverPhoto: https://tansionline.github.io/img/websecurity.png
 <br>
 <br>
 
-Selamlar. Ben Selçuk Tatar. Şuan Bilişim Güvenliği bölümü, ilk sınıf öğrencisiyim. Bundan 4 ay önce Web Güvenliğine ilgi duymaya başladım. Şuan bir amatör olarak size neler öğrendiğimi ve nereden başlayıp şuan nereye doğru ilerlediğimi anlatıyor olucağım. Düzeltmemi istediğiniz birşey olursa [Twitterdan](https://twitter.com/tansionline) bana ulaşabilirsiniz. 
+Selamlar. Ben Selçuk Tatar. Şu an Bilişim Güvenliği bölümü, ilk sınıf öğrencisiyim. Bundan 4 ay önce Web Güvenliğine ilgi duymaya başladım. Şuan bir amatör olarak size neler öğrendiğimi ve nereden başlayıp şuan nereye doğru ilerlediğimi anlatıyor olucağım. Düzeltmemi istediğiniz birşey olursa [Twitterdan](https://twitter.com/tansionline) bana ulaşabilirsiniz. 
 **Not: İngilizce kaynaklar içerir.**
 
 <h2>Level 0: Hazırlık</h2>
